@@ -14,4 +14,4 @@ Graduate college: **June 2018**. Specialty - **technician programmer**
 Incomplete higher educatio, Specialty - **engineer-programmer**
 
 **English**  
-Beginner/Elementary
+Beginner/Elementary  
