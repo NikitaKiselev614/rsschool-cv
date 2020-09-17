@@ -7,7 +7,7 @@ email: **Nikitakiselev@gmail.com** Phone number:  **+375(33) 672-44-84**
   
   
 **Skills:**  
-*HTML/CSS
+* HTML/CSS
 
 **Education**   
 Graduate college: **June 2018**. Specialty - **technician programmer**  
